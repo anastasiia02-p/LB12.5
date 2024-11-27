@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB12.4\LB12.4\main.cpp(153,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest2.cpp')
+  
+     Creating library D:\універ\лаби з алгоритмізації і програмування\LB12.4\x64\Debug\UnitTest2.lib and object D:\універ\лаби з алгоритмізації і програмування\LB12.4\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB12.4\x64\Debug\UnitTest2.dll

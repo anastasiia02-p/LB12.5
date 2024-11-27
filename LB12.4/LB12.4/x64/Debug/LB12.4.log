@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB12.4\LB12.4\main.cpp(153,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LB12.4.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB12.4\x64\Debug\LB12.4.exe
